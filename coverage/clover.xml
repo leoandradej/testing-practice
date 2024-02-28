@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1709091579186" clover="3.2.0">
+  <project timestamp="1709091579187" name="All files">
+    <metrics statements="27" coveredstatements="27" conditionals="8" coveredconditionals="8" methods="9" coveredmethods="9" elements="44" coveredelements="44" complexity="0" loc="27" ncloc="27" packages="1" files="5" classes="5"/>
+    <file name="analyzeArray.js" path="/Users/leo_andrade/repos/testing-practice/analyzeArray.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
+    <file name="caesarCipher.js" path="/Users/leo_andrade/repos/testing-practice/caesarCipher.js">
+      <metrics statements="11" coveredstatements="11" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="5" count="70" type="stmt"/>
+      <line num="6" count="70" type="cond" truecount="4" falsecount="0"/>
+      <line num="7" count="37" type="stmt"/>
+      <line num="8" count="33" type="cond" truecount="4" falsecount="0"/>
+      <line num="9" count="28" type="stmt"/>
+      <line num="11" count="5" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="calculator.js" path="/Users/leo_andrade/repos/testing-practice/calculator.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="/Users/leo_andrade/repos/testing-practice/capitalize.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="/Users/leo_andrade/repos/testing-practice/reverseString.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="6" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
